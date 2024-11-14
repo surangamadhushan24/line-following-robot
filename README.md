@@ -1,5 +1,5 @@
 
-Line Following Robot
+# Line Following Robot
 This repository contains the code for a line-following robot using an Arduino microcontroller. The robot uses five infrared (IR) sensors to detect the line and control two motors to follow it.
 
 Hardware Requirements
